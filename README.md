@@ -165,7 +165,7 @@ Java Full Stack Developer | B.Tech Computer Science Engineering
 <p align="center">
   <img alt="Made with Java" src="https://img.shields.io/badge/Made%20with-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Built with Swing and MySQL" src="https://img.shields.io/badge/Built%20with-Swing%20%2B%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Developed by Debashis Palai" src="https://img.shields.io/badge/Developed%20by-Debashis%20Paloi-2C2255?style=flat-square" />
+  <img alt="Developed by Debashis Palai" src="https://img.shields.io/badge/Developed%20by-Debashis%20Palai-2C2255?style=flat-square" />
 </p>
 
 <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:4479A1&height=100&section=footer" />
